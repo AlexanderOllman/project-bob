@@ -52,3 +52,4 @@ rm -r jyoti-core-venv; \
 ```
 
 # project-bob
+# project-bob
